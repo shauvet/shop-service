@@ -1,1 +1,5 @@
-# vue-shop-cart
+# shop-service
+
+- nodejs
+- express
+- mongodb
